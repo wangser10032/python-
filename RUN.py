@@ -1,8 +1,7 @@
 # 主函数运行
-from Monitor05_2 import *  # 导入所有函数
-from Monitor05_2 import Email_send  # Email_send
-from Monitor05_3 import Monitor  # resouces
-import Monitor05_4 as PI  # Private Information
+from Email import *  # 导入所有函数
+from Monitor import Monitor  # resouces
+import personal imformation as PI  # Private Information
 import time
 
 
