@@ -1,9 +1,7 @@
 # 发送邮件
 import smtplib
 from email.mime.text import MIMEText
-import Monitor05_4 as PI
-# import Monitor03_3 as RES  # resouces
-# import Monitor03_4 as PI  # Private Information
+import personal imformation as PI
 
 # 系统资源邮件编辑
 def Email_system_create(usage, pi):
